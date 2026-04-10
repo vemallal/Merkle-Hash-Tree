@@ -24,7 +24,7 @@ Before modification:
 Top Hash: 59535fc6b7915842b5aca85a5091120ed8cf7e30
 
 After modification:
-Top Hash: 8b508d0f10dc4b32c4d4a70a193bff952ee1163
+Top Hash: 8b508d0f10dc4b32c4d4a70a193bff952ee1163a
 
 ## Conclusion
 Merkle Trees ensure data integrity by detecting changes in files.
